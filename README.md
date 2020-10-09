@@ -18,4 +18,4 @@ $ ruby 8ball.rb
 5. И получить ответ на свой вопрос :)
 
 ## Скриншот
-https://yadi.sk/i/ldS0VwkybsYlhA
+<img src="https://github.com/edwardkv/8ball/blob/master/images/screen.png"/>
